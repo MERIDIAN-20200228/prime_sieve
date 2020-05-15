@@ -60,7 +60,7 @@ int main()
 	while ( current_index <= max_index )
 	{
 		
-		if ( check_vector[current_index] == NULL )
+		if ( check_vector[current_index] == 0 )
 		{
 
 //			cout << 2*current_index + 1 << endl;
