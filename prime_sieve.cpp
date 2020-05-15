@@ -1,6 +1,9 @@
 /*
  * Prime seive using modified Sieve of Eratothenes
- * by Joshua Latimer (C) 2020-05
+ * by MERIDIAN (SGT_Stabby) (C) 2020-05
+ *
+ * Note: runs significantly faster without outputting primes as they are found. Working on methods for storing
+ * 	 primes and running on sections of a larger set to increase maximum searchable values at reduced cost.
  */
  
 #include <iostream>
